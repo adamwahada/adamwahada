@@ -4,8 +4,7 @@
 
 I have been coding for **4 years** and I am passionate about **backend development**, **microservice architecture**, and leveraging **modern backend technologies**, always striving to stay up-to-date with the latest advancements. I particularly enjoy **testing and experimenting with emerging AI innovations** to create modern, impactful solutions. I am also **interested in Machine Learning** and currently working on adding ML projects and skills to my profile.
 
-- 🌍  I'm based in Tunisia  
-- 🖥️  See my portfolio at [GitHub](https://github.com/adamwahada)  
+- 🌍  I'm based in Tunisia 
 - ✉️  Contact me at [adam.wahada@esprit.tn](mailto:adam.wahada@esprit.tn)  
 - 🚀  I'm currently working on [a World Quiz Game](http://worldquize), an interactive geography quiz application that helps users learn about countries, capitals, and famous personalities, while providing **engaging gameplay with friends**.  
 - 👥  I'm open to collaborating on **building SaaS applications from scratch** or **integrating, modernizing, and securing existing applications** to enhance performance and efficiency.
@@ -33,9 +32,3 @@ I have been coding for **4 years** and I am passionate about **backend developme
 <a href="https://github.com/adamwahada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
 <a href="https://www.linkedin.com/in/adam-wahada-1828aa266" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
-
-### GitHub Stats
-
-<a href="http://www.github.com/adamwahada"><img src="https://github-readme-stats.vercel.app/api?username=adamwahada&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adamwahada's GitHub stats" /></a>
-
-<a href="http://www.github.com/adamwahada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adamwahada&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
