@@ -6,7 +6,7 @@ I have been coding for **4 years** and I am passionate about **backend developme
 
 - 🌍  I'm based in Tunisia 
 - ✉️  Contact me at [adam.wahada@esprit.tn](mailto:adam.wahada@esprit.tn)  
-- 🚀  I'm currently working on [a World Quiz Game](http://worldquize), an interactive geography quiz application that helps users learn about countries, capitals, and famous personalities, while providing **engaging gameplay with friends**.  
+- 🚀  I'm currently working on [a World Quiz Game](https://worldmapquiz.lovable.app), an interactive geography quiz application that helps users learn about countries, capitals, and famous personalities, while providing **engaging gameplay with friends**.  
 - 👥  I'm open to collaborating on **building SaaS applications from scratch** or **integrating, modernizing, and securing existing applications** to enhance performance and efficiency.
 
 ### Skills
